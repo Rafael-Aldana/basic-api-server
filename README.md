@@ -12,8 +12,8 @@ Build a REST API using Express, by creating a proper series of endpoints that pe
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/Rafael-Aldana/basic-api-server/actions/new)
-- [back-end server dev url](https://github.com/Rafael-Aldana/basic-express-server/tree/dev)
-- [back-end server prod url](https://github.com/Rafael-Aldana/basic-express-server)
+- [back-end server dev url](https://github.com/Rafael-Aldana/basic-api-server/tree/dev)
+- [back-end server prod url](https://github.com/Rafael-Aldana/basic-api-server/tree/main)
 
 ### Setup
 
